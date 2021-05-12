@@ -1,0 +1,61 @@
+html,
+body {
+    position: relative;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.box {
+    position: absolute;
+    z-index: 1;
+}
+
+.center {
+    top: 50%;
+    left: 50%;
+}
+
+.green {
+    background-color: green;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.red {
+    background-color: red;
+}
+
+.size200 {
+    height: 200px;
+    width: 200px;
+}
+
+.selected {
+    outline: 5px solid black;
+}
+
+.circle {
+    border-radius: 50%;
+}
+
+.animateSize {
+    transition: width 1s, height 1s;
+}
+
+.fa-bell {
+    font-size: 5em;
+}
+
+.bell-alarm {
+    margin-left: 30px;
+    padding: 20px;
+}
+

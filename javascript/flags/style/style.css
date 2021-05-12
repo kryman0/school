@@ -1,0 +1,118 @@
+h1 {
+    text-align: center;
+}
+
+.content {
+    width: 600px;
+    height: 400px;
+    margin: 0 auto;
+    padding: 2em;
+    background-color: #eee;
+    border: 1px solid black;
+    border-radius: 30px;
+}
+
+.swe-flag-box {
+    position: relative;
+    width: 160px;
+    height: 100px;
+    background-color: #006aa7;
+}
+
+.swe-flag-horizontal {
+    position: absolute;
+    top: 40px;
+    width: 100%;
+    height: 20px;
+    background-color: #fecc00;
+}
+
+.swe-flag-vertical {
+    position: absolute;
+    left: 50px;
+    width: 20px;
+    height: 100%;
+    background-color: #fecc00;
+}
+
+.pol-flag-box {
+    position: relative;
+    width: 160px;
+    height: 100px;
+    background-color: #fff;
+}
+
+.pol-flag-horizontal {
+    position: absolute;
+    top: 50px;
+    width: 100%;
+    height: 50px;
+    background-color: #d4213d;
+}
+
+.left {
+    float: left;
+    width: 40%;
+}
+
+.right {
+    float: right;
+    width: 40%;
+}
+
+.it-flag-box {
+    position: relative;
+    width: 150px;
+    height: 100px;
+}
+
+.it-flag-vertical-one,
+.it-flag-vertical-two,
+.it-flag-vertical-three {
+    position: absolute;
+    width: 50px;
+    height: 100%;
+}
+
+.it-flag-vertical-one {
+    background-color: #009246;
+}
+
+.it-flag-vertical-two {
+    background-color: #f1f2f1;
+    left: 50px;
+}
+
+.it-flag-vertical-three {
+    left: 100px;
+    background-color: #ce2b37;
+}
+
+.co-flag-box {
+    position: relative;
+    width: 160px;
+    height: 100px;
+}
+
+.co-flag-horizontal-one,
+.co-flag-horizontal-two,
+.co-flag-horizontal-three {
+    position: absolute;
+    width: 100%;
+    height: 25%;
+}
+
+.co-flag-horizontal-one {
+    height: 50%;
+    background-color: #fcd116;
+}
+
+.co-flag-horizontal-two {
+    top: 50px;
+    background-color: #003893;
+}
+
+.co-flag-horizontal-three {
+    top: 75px;
+    background-color: #ce1126;
+}

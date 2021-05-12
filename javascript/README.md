@@ -1,35 +1,8 @@
-# Projects
+# Introduction
 
-**Projects from some of the courses taken at Blekinge Institue of Technology (Blekinge Tekniska Högskola).**
+Some programs made in vanilla JavaScript during a course. The site can be found at https://javascript.kryman.me/
 
-The courses that follow are from chronological order, first to last.
-
-## Python
-
-### Analyzer
-
-This project retrieves some regular information from a user chosen file:
-
-* lines: Analyze the number of non-empty lines.
-* words: Analyze the number of words.
-* letters: Analyze the number of characters and letters.
-* word frequency: Analyze the frequency of the words.
-* letter frequency: Analyze the frequency of the letters.
-* all: Analyze the file.
-
-## PHP
-
-### Nättraby Vägmuseum
-
-https://nattraby-road-museum.kryman.me/
-
-A website with some information from Nättraby Vägmuseum (Nättraby road museum) in Blekinge. This site uses the following technologies: HTML, CSS, PHP and SQLite.
-
-## JavaScript
-
-https://javascript.kryman.me/
-
-### Folders
+## Folders
 
 * flags: Flags are created by pure CSS.
 
@@ -40,6 +13,6 @@ Clicking on the alarm bell starts a countdown to 0 and prints a simple message.
 
 * intelligence: A continuous game consisting of several tests where each test contains some tasks to accomplish in order to collect as many points as possible. First part consists of JavaScript questions. Second is Fizzbuzz. Third is a memory test where nine flags will be presented for five seconds. The fourth part is about visual ability and reading comprehension. The test during 15 seconds will present 10 unique objects and at the same time a list will be presented to click on the objects in the order they are presented from the list. In the fifth and last test, about perception, an object is presented during one second and for another second a paus is made. 10 objects (same as in the previous test) will be presented. The test is about to click, or not to click on an object which fulfills, or not fulfills any of the three options presented.
 
-### Run
+## Run
 
 Go to specific folder.
