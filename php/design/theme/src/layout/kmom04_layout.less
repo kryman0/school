@@ -1,0 +1,100 @@
+/**
+ * Layout style for general structure of header, navbar, main, footer
+ * and other regions of the page including route specific styles.
+ */
+
+/**
+ * Variables
+ */
+@myMagicNumber: 24px;
+
+/**
+ * General layout
+ */
+ 
+.rapport-table {    
+    margin: 0;
+    padding: 0;
+    border: 1px solid black;
+    border-collapse: separate;
+}
+
+.rapport-table tr {
+    box-shadow: none;
+}
+
+.rapport-table td {
+    display: inline-block;
+    width: 50px;
+    height: 50px;    
+    margin-right: 10px;
+}
+
+.rapport-table td:last-child {
+    margin-right: 0;
+}
+
+.rapport-table tr:hover {
+    color: inherit;
+    background-color: inherit;
+    box-shadow: none;
+}
+
+.row {
+    #desinax-vgrid.row();
+    // max-width: 100%;
+ }
+  
+.outer-wrap {
+    margin-bottom: @myMagicNumber;
+}
+
+.outer-wrap:last-child {
+    margin-bottom: 0;
+}
+
+.region-breadcrumb {
+    #desinax-vgrid.column(@columns);
+}
+
+.next-previous {
+    #desinax-vgrid.column(@columns);
+}
+
+.next-previous .next {
+    #desinax-vgrid.column(@columns / 3);
+    #desinax-vgrid.push(16);
+    text-align: right;
+}
+
+.next-previous .previous {
+    #desinax-vgrid.column(@columns / 3);
+    #desinax-vgrid.pull(16 + 8);
+    text-align: left;
+}
+
+.inner-wrap-main {
+    min-height: 20em;
+}
+
+.region-main {
+    #desinax-vgrid.column(@columns);    
+    
+    &.has-sidebar {
+        #desinax-vgrid.column(@columns / 4 * 3);
+    }
+
+    &.has-sidebar-left.has-sidebar-right {
+        #desinax-vgrid.column(@columns / 2);
+    }
+}
+
+.region-sidebar-left,
+.region-sidebar-right {
+    #desinax-vgrid.column(@columns / 4);
+}
+
+.region-sidebar-left.has-sidebar-right,
+.region-sidebar-right.has-sidebar-left {
+    #desinax-vgrid.column(@columns / 4);
+}

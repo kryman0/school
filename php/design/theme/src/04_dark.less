@@ -1,0 +1,58 @@
+/*!
+* Stylesheet dark.
+* 
+* LESS version of the stylesheet dark from kmom04.
+*/
+
+// Modules
+@import "kmom04.less";
+
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono|Overpass+Mono|Righteous');
+
+
+// CSS
+body {
+    background-color: @bgColor;
+    color: @color;
+}
+
+
+a,
+a:visited {
+    color: @colorLinks;
+}
+
+
+.region-header {
+    font-family: @fontFamilyNavbar;
+}
+
+.rm-max .rm-mobile {
+    background-color: @colorBlack;
+}
+
+
+.outer-wrap-footer {
+    background-color: @colorBlack;
+}
+
+// Settings
+@bgColor: #012B0C;
+@bgColorCodeBlock: #00400E;
+@bgColorCodeInline: #646366;
+
+@color: #03DB33;
+@colorBlack: #000;
+@colorH1BorderBottom: #00400E;
+@colorH2BorderBottom: #00400E;
+@colorH3BorderBottom: #00400E;
+@colorH4BorderBottom: #00400E;
+@colorH5BorderBottom: #00400E;
+@colorH6BorderBottom: #00400E;
+@colorLinks: #00FF39;
+
+@fontFamilyBody: 'Overpass Mono', monospace;
+@fontFamilyNavbar: 'Righteous', cursive;
+@fontFamilyHeadings: 'IBM Plex Mono', monospace;

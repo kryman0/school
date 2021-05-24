@@ -1,0 +1,60 @@
+/*!
+ * LESS version of the stylesheet for design kmom04.
+ *
+ * This stylesheet is for the design course and kmom04. It's intention is to
+ * lessify the style and use this as a wrapper for the new style.
+ */
+
+/**
+ * Import mixins.
+ */
+@import "@desinax/mixin/less/clearfix.less";
+
+.clearfix() {
+    #desinax-mixin.clearfix();
+}
+
+/**
+ * Normalize and reset the style.
+ */
+@import "normalize.css/normalize.less";
+
+/**
+ * Font Awesome.
+ */
+@import "@fortawesome/fontawesome-free/less/fontawesome.less";
+@import "@fortawesome/fontawesome-free/less/solid.less";
+@import "@fortawesome/fontawesome-free/less/brands.less";
+
+/**
+ * @Desinax:
+ */
+// Responsive menu.
+@import "@desinax/responsive-menu/less/responsive-menu.less";
+
+// Vertical Grid.
+@import "@desinax/vertical-grid/less/grid.less";
+
+// Horizontal grid, also called the typographic grid.
+@import "@desinax/typographic-grid/less/typography-font-families.less";
+@import "@desinax/typographic-grid/less/typography-defaults.less";
+
+
+/**
+ * Base style to affect HTML elements on a general scale.
+ */
+@import "base/kmom04_base.less";
+
+
+/**
+ * Layout style for general structure of header, navbar, main, footer
+ * and other regions of the page including route specific styles.
+ */
+@import "layout/kmom04_header.less";
+@import "layout/kmom04_layout.less";
+@import "layout/kmom04_footer.less";
+
+
+/**
+ * My own settings, not currently in their own module.
+ */

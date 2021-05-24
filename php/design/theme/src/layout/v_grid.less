@@ -1,0 +1,219 @@
+/**
+ * Layout style for general structure of header, navbar, main, footer
+ * and other regions of the page including route specific styles.
+ */
+
+/**
+ * Variables
+ */
+@myMagicNumber: 1.5rem;
+
+/**
+ * General layout
+ */
+ 
+.rapport-table {    
+    margin: 0;
+    padding: 0;
+    border: 1px solid black;
+    border-collapse: separate;
+}
+
+.rapport-table tr {
+    box-shadow: none;
+}
+
+.rapport-table td {
+    display: inline-block;
+    width: 50px;
+    height: 50px;    
+    margin-right: 10px;
+}
+
+.rapport-table td:last-child {
+    margin-right: 0;
+}
+
+.rapport-table tr:hover {
+    color: inherit;
+    background-color: inherit;
+    box-shadow: none;
+}
+
+.row {
+    #desinax-vgrid.row();
+    max-width: 100%;
+ }
+  
+.outer-wrap {
+    margin-bottom: @myMagicNumber;
+}
+
+.outer-wrap:last-child {
+    margin-bottom: 0;
+}
+
+.inner-wrap-header,
+.inner-wrap-footer {
+    #desinax-vgrid.grid(100%);
+}
+
+.region-header-col-1,
+.region-header-col-3 {
+    #desinax-vgrid.column(@columns / 4);
+    // background-color: antiquewhite;
+}
+
+.region-header-col-2 {
+    #desinax-vgrid.column(@columns / 2);
+    // background-color: aqua;
+}
+
+.site-logo {
+    display: none;
+}
+
+
+.region-flash {
+    #desinax-vgrid.column(@columns);
+}
+
+.region-breadcrumb {
+    #desinax-vgrid.column(@columns);
+    // background-color: lightgray;
+}
+
+.next-previous {
+    #desinax-vgrid.column(@columns);
+    // background-color: magenta;
+}
+
+.next-previous .next {
+    #desinax-vgrid.column(@columns / 3);
+    #desinax-vgrid.push(16);
+    text-align: right;
+}
+
+.next-previous .previous {
+    #desinax-vgrid.column(@columns / 3);
+    #desinax-vgrid.pull(16 + 8);
+    text-align: left;
+}
+
+.inner-wrap-main {
+    min-height: 20em;
+}
+
+.region-main {
+    #desinax-vgrid.column(@columns);    
+    // background-color: chartreuse;
+    
+    &.has-sidebar {
+        #desinax-vgrid.column(@columns / 4 * 3);
+    }
+
+    &.has-sidebar-left.has-sidebar-right {
+        #desinax-vgrid.column(@columns / 2);
+    }
+}
+
+.region-sidebar-left,
+.region-sidebar-right {
+    #desinax-vgrid.column(@columns / 4);
+    // background-color: yellow;
+}
+
+.region-sidebar-left.has-sidebar-right,
+.region-sidebar-right.has-sidebar-left {
+    #desinax-vgrid.column(@columns / 4);
+}
+
+
+.region-footer {
+    #desinax-vgrid.column(@columns);
+    // background-color: darkorange;
+}
+
+.region-footer .footer-column {
+    #desinax-vgrid.column(@columns / 3);
+    // background-color: indianred;
+}
+
+.region-footer .site-footer {
+    #desinax-vgrid.column(@columns);
+    // background-color: lightblue;
+}
+
+
+@media screen and (max-width: 1000px) {
+    .region-header-col-1,
+    .region-header-col-3 {
+        display: none;
+    }
+    
+    .region-header-col-2 {
+        #desinax-vgrid.column(@columns);
+    }
+    
+    .region-main {
+        #desinax-vgrid.column(@columns);
+        
+        &.has-sidebar {
+            #desinax-vgrid.column(@columns - 6);
+        }
+
+        &.has-sidebar-left.has-sidebar-right {
+            #desinax-vgrid.column(@columns / 2);
+        }
+    }
+
+    .region-sidebar-left,
+    .region-sidebar-right {
+        #desinax-vgrid.column(@columns / 4);
+    }
+
+    .region-sidebar-left.has-sidebar-right,
+    .region-sidebar-right.has-sidebar-left {
+        #desinax-vgrid.column(@columns / 4);
+    }
+}
+
+@media screen and (max-width: 700px) {    
+    .region-main {
+        #desinax-vgrid.column(@columns);        
+    
+        &.has-sidebar {
+            #desinax-vgrid.column(@columns);
+        }
+    
+        &.has-sidebar-left.has-sidebar-right {
+            #desinax-vgrid.column(@columns);
+        }
+    }
+    
+    .region-sidebar-left,
+    .region-sidebar-right {        
+        #desinax-vgrid.column(@columns);
+    }
+    
+    .region-sidebar-left.has-sidebar-right,
+    .region-sidebar-right.has-sidebar-left {
+        #desinax-vgrid.column(@columns);
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .region-header-col-3 {
+        #desinax-vgrid.column(@columns);
+    }
+    
+    .region-header-col-1,
+    .region-header-col-2,
+    .region-flash img {
+        display: none;
+    }
+    
+    .region-footer .footer-column {
+        #desinax-vgrid.column(@columns);
+    }
+}
