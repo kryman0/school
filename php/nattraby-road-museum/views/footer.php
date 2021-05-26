@@ -32,9 +32,6 @@
             <div class="view-footer-nav-link-box">
                 <a href="galleri.php">Galleri</a>
             </div>
-            <div class="view-footer-nav-link-box">
-                <a href="inloggning.php">Inloggning</a>
-            </div>
         </div>
     </div>
     <div class="view-footer-last-div">

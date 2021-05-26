@@ -1,3 +1,6 @@
 __pycache__
 *.log
-webapp
+
+# folders
+php/design/
+php/nattraby-road-museum/

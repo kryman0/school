@@ -6,7 +6,8 @@ if (isset($_POST["login"])) {
     if (($user == "admin" && $pass == "admin") || ($user == "doe" && $pass == "doe")) {
         $_SESSION["user"] = $user;
         $_SESSION["pass"] = $pass;
-        header("Location: ?sida=index");
+        // header("Location: ?sida=index");
+        header("Location: inloggning.php");
     } else {
         $_SESSION["access"] = "denied";
         header("Location: inloggning.php");
