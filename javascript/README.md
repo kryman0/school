@@ -1,8 +1,6 @@
-# Introduction
-
-Some programs made in vanilla JavaScript during a course. The site can be found at https://javascript.kryman.me/
-
 ## Folders
+
+Some of these folders below can be found at: https://javascript.kryman.me/
 
 * flags: Flags are created by pure CSS.
 
@@ -12,6 +10,10 @@ Clicking on the alarm bell starts a countdown to 0 and prints a simple message.
 * hangman: The game is called Hangman. To win you need to guess some letters to reveal the hidden words before the full image is rendered.
 
 * intelligence: A continuous game consisting of several tests where each test contains some tasks to accomplish in order to collect as many points as possible. First part consists of JavaScript questions. Second is Fizzbuzz. Third is a memory test where nine flags will be presented for five seconds. The fourth part is about visual ability and reading comprehension. The test during 15 seconds will present 10 unique objects and at the same time a list will be presented to click on the objects in the order they are presented from the list. In the fifth and last test, about perception, an object is presented during one second and for another second a paus is made. 10 objects (same as in the previous test) will be presented. The test is about to click, or not to click on an object which fulfills, or not fulfills any of the three options presented.
+
+* [vue-reports](https://kryman.me/#/): Simple application created in the framework Vue.js for creation of reports. The frontend connects to the backend via the APIs and the login use JWT.
+
+* [vue-stocks](https://stock.kryman.me/#/): Application created in the framework Vue.js for getting updated stock prices via sockets presented in a graph for each stock. The frontend connects to the backend via the APIs and the login use JWT.
 
 ## Run
 

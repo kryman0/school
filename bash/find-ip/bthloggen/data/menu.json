@@ -1,0 +1,6 @@
+{
+	"/": "This page.",
+	"/data": "Show all rows.",
+	"/data?ip=<ip>": "Show rows containing the <ip>.",
+	"/data?url=<url>": "Show rows containing the <url>."
+}

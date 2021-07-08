@@ -86,3 +86,9 @@ Clicking on the alarm bell starts a countdown to 0 and prints a simple message.
 ### Applications
 
 * mavic2pro: Programming in C# and XAML towards a Mavic 2 Pro/Enterprise drone (DJI) for creating a waypoint mission.
+
+## Bash
+
+### Applications
+
+* find-ip: Program made in bash which use sed to find via regex certain ips or urls from about 50k lines in a log file. The program starts a node.js server application on port 1337 on localhost where the user is presented some menus to use. Technologies used: Bash, JavaScript, Node.js and Docker.
