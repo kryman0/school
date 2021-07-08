@@ -41,7 +41,7 @@ namespace Mavic2Pro
             DJISDKManager.Instance.SDKRegistrationStateChanged += Instance_SDKRegistrationEvent;
 
             // Replace with registered app key.
-            DJISDKManager.Instance.RegisterApp("b1091cdfffe11a51cafa0668");
+            DJISDKManager.Instance.RegisterApp("your_registered_app_key");
         }
 
         private async void Instance_SDKRegistrationEvent(SDKRegistrationState state, SDKError resultCode)
