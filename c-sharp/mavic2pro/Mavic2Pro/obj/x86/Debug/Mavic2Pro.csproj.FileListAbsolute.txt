@@ -1,0 +1,174 @@
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\App.xbf
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\MainPage.xbf
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\Mavic2Pro.xr.xml
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\Mavic2Pro.exe
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\Mavic2Pro.pdb
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\resources.pri
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\AppxManifest.xml
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\Core\Mavic2Pro.exe
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\Mavic2Pro.build.appxrecipe
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\System.Runtime.dll
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\DJIWindowsSDK.dll
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\DJIWindowsWrapper.winmd
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\DJIWindowsSDK.xml
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\DJIWindowsWrapper.dll
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\Mavic2Pro.csprojAssemblyReference.cache
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\App.g.i.cs
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\App.g.cs
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\MainPage.g.cs
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\App.xaml
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\MainPage.xaml
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\App.xbf
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\MainPage.xbf
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\Mavic2Pro.csproj.CopyComplete
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\Mavic2Pro.exe
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\Mavic2Pro.pdb
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\priconfig.xml
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\resources.resfiles
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\pri.resfiles
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\qualifiers.txt
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\.winmd_cache\$DJIWindowsWrapper.winmd_637038653806142562.json
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\DJIVideoParser.winmd
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\DJIVideoParser.dll
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\DJIVideoParser.pdb
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\DJIVideoParser.pri
+C:\Users\kryman\source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\.winmd_cache\$DJIVideoParser.winmd_637065756201645949.json
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\bin\x86\Debug\App.xbf
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\bin\x86\Debug\MainPage.xbf
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\bin\x86\Debug\Mavic2Pro.xr.xml
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\bin\x86\Debug\Mavic2Pro.exe
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\bin\x86\Debug\Mavic2Pro.pdb
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\bin\x86\Debug\System.Runtime.dll
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\bin\x86\Debug\DJIVideoParser.winmd
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\bin\x86\Debug\DJIWindowsSDK.dll
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\bin\x86\Debug\DJIWindowsWrapper.winmd
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\bin\x86\Debug\DJIVideoParser.pdb
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\bin\x86\Debug\DJIVideoParser.pri
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\bin\x86\Debug\DJIWindowsSDK.xml
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\bin\x86\Debug\DJIWindowsWrapper.dll
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\obj\x86\Debug\Mavic2Pro.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\obj\x86\Debug\App.g.i.cs
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\obj\x86\Debug\App.g.cs
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\obj\x86\Debug\MainPage.g.cs
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\obj\x86\Debug\App.xaml
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\obj\x86\Debug\MainPage.xaml
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\obj\x86\Debug\App.xbf
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\obj\x86\Debug\MainPage.xbf
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\obj\x86\Debug\Mavic2Pro.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\obj\x86\Debug\Mavic2Pro.csproj.CopyComplete
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\obj\x86\Debug\Mavic2Pro.exe
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\obj\x86\Debug\Mavic2Pro.pdb
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\bin\x86\Debug\resources.pri
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\bin\x86\Debug\AppxManifest.xml
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\bin\x86\Debug\Core\Mavic2Pro.exe
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\bin\x86\Debug\Mavic2Pro.build.appxrecipe
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\obj\x86\Debug\priconfig.xml
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\obj\x86\Debug\resources.resfiles
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\obj\x86\Debug\pri.resfiles
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\obj\x86\Debug\qualifiers.txt
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\obj\x86\Debug\.winmd_cache\$DJIWindowsWrapper.winmd_637067335989492403.json
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\mavic2pro\Mavic2Pro\obj\x86\Debug\.winmd_cache\$DJIVideoParser.winmd_637068159543212744.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Mavic2Pro\Mavic2Pro\obj\x86\Debug\Mavic2Pro.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Mavic2Pro\Mavic2Pro\obj\x86\Debug\App.g.i.cs
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Mavic2Pro\Mavic2Pro\obj\x86\Debug\App.g.cs
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Mavic2Pro\Mavic2Pro\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Mavic2Pro\Mavic2Pro\obj\x86\Debug\MainPage.g.cs
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Mavic2Pro\Mavic2Pro\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Mavic2Pro\Mavic2Pro\obj\x86\Debug\App.xaml
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Mavic2Pro\Mavic2Pro\obj\x86\Debug\MainPage.xaml
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Mavic2Pro\Mavic2Pro\obj\x86\Debug\App.xbf
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Mavic2Pro\Mavic2Pro\obj\x86\Debug\MainPage.xbf
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Mavic2Pro\Mavic2Pro\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Mavic2Pro\Mavic2Pro\obj\x86\Debug\Mavic2Pro.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Mavic2Pro\Mavic2Pro\obj\x86\Debug\Mavic2Pro.pdb
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\App.xbf
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\MainPage.xbf
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\Mavic2Pro.xr.xml
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\Mavic2Pro.exe
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\Mavic2Pro.pdb
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\resources.pri
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\AppxManifest.xml
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\Core\Mavic2Pro.exe
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\Mavic2Pro.build.appxrecipe
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\System.Runtime.dll
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\DJIVideoParser.winmd
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\DJIWindowsSDK.dll
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\DJIWindowsWrapper.winmd
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\DJIVideoParser.pdb
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\DJIVideoParser.pri
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\DJIWindowsSDK.xml
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\DJIWindowsWrapper.dll
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\Mavic2Pro.csprojAssemblyReference.cache
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\App.g.i.cs
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\App.g.cs
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\MainPage.g.cs
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\App.xaml
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\MainPage.xaml
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\App.xbf
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\MainPage.xbf
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\Mavic2Pro.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\Mavic2Pro.csproj.CopyComplete
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\Mavic2Pro.exe
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\Mavic2Pro.pdb
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\priconfig.xml
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\resources.resfiles
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\pri.resfiles
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\qualifiers.txt
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\.winmd_cache\$DJIVideoParser.winmd_637069977835332919.json
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\.winmd_cache\$DJIWindowsWrapper.winmd_637067335989492403.json
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\ViewModels\Management.g.i.cs
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\ViewModels\Management.g.cs
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\ViewModels\Management.xaml
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\obj\x86\Debug\ViewModels\Management.xbf
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\bin\x86\Debug\ViewModels\Management.xbf

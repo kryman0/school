@@ -1,0 +1,92 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Admin\\Documents\\Visual Studio 2019\\Projects\\mavic2pro\\Mavic2Pro\\Mavic2Pro.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Admin\\Documents\\Visual Studio 2019\\Projects\\mavic2pro\\DJIVideoParser\\DJIVideoParser.vcxproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\Visual Studio 2019\\Projects\\mavic2pro\\DJIVideoParser\\DJIVideoParser.vcxproj",
+        "projectName": "DJIVideoParser",
+        "projectPath": "C:\\Users\\Admin\\Documents\\Visual Studio 2019\\Projects\\mavic2pro\\DJIVideoParser\\DJIVideoParser.vcxproj"
+      },
+      "frameworks": {
+        "native": {}
+      }
+    },
+    "C:\\Users\\Admin\\Documents\\Visual Studio 2019\\Projects\\mavic2pro\\Mavic2Pro\\Mavic2Pro.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\Visual Studio 2019\\Projects\\mavic2pro\\Mavic2Pro\\Mavic2Pro.csproj",
+        "projectName": "Mavic2Pro",
+        "projectPath": "C:\\Users\\Admin\\Documents\\Visual Studio 2019\\Projects\\mavic2pro\\Mavic2Pro\\Mavic2Pro.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\Visual Studio 2019\\Projects\\mavic2pro\\Mavic2Pro\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.16299"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.16299": {
+            "projectReferences": {
+              "C:\\Users\\Admin\\Documents\\Visual Studio 2019\\Projects\\mavic2pro\\DJIVideoParser\\DJIVideoParser.vcxproj": {
+                "projectPath": "C:\\Users\\Admin\\Documents\\Visual Studio 2019\\Projects\\mavic2pro\\DJIVideoParser\\DJIVideoParser.vcxproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.16299": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.8, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

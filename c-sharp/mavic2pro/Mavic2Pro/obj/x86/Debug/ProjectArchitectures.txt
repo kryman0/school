@@ -1,0 +1,2 @@
+C:\Users\Admin\Source\repos\Mavic2Pro\DJIVideoParser\DJIVideoParser.vcxproj;x86
+C:\Users\Admin\Source\repos\Mavic2Pro\Mavic2Pro\Mavic2Pro.csproj;x86

@@ -1,0 +1,71 @@
+﻿<Page
+    x:Class="Mavic2Pro.ViewModels.Management"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Mavic2Pro.ViewModels"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
+    MaxWidth="1260" MaxHeight="740">
+
+    <Grid Margin="10, 40">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="300" />
+            <ColumnDefinition Width="280" />
+            <ColumnDefinition Width="320" />
+            <ColumnDefinition Width="300" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <StackPanel Grid.ColumnSpan="4">
+            <CommandBar FlowDirection="LeftToRight">
+                <AppBarButton x:Name="homeAppBarBtn" Icon="Home" Label="Home" Click="GetPage_Click" />
+                <AppBarButton x:Name="settingAppBarBtn" Icon="Setting" Label="Settings" Click="GetPage_Click" />
+            </CommandBar>
+        </StackPanel>
+        <StackPanel Grid.Column="0" Grid.Row="1" Margin="0, 0, 10, 0">
+            <TextBlock Margin="0, 0, 0, 10" FontSize="30" HorizontalAlignment="Center" Foreground="DarkRed">Location</TextBlock>
+            <Button Content="Get Home Location" Click="GetHomeLocation_Click" />
+            <TextBlock Margin="0, 20" x:Name="getHomeTB" />
+            <TextBlock>Set Home Location:</TextBlock>
+            <TextBox Margin="0, 10" x:Name="latTbox" PlaceholderText="Latitude" />
+            <TextBox x:Name="longTbox" PlaceholderText="Longitude" />
+            <Button Margin="0, 10" Content="Save" Click="SetHomeLocation_Click" />
+            <TextBlock Margin="0, 10" x:Name="errorMsgTB" />
+            <TextBlock TextWrapping="Wrap">Set home Location using aircraft's current location:</TextBlock>
+            <Button Margin="0, 10" Content="Set Home Location" Click="SetHomeLocationUsingAircraftCurrentLocation_Click" />
+        </StackPanel>
+        <StackPanel Grid.Column="1" Grid.Row="1" Margin="0, 0, 10, 0">
+            <TextBlock Margin="0, 0, 0, 10" FontSize="30" HorizontalAlignment="Center" Foreground="Coral">Home</TextBlock>
+            <Button Content="Go Home" Click="StartGoHome_Click" />
+            <TextBlock Margin="0, 20" x:Name="goHomeErrTB" />
+            <Button Content="Stop Go Home" Click="StopGoHome_Click" />
+            <TextBlock Margin="0, 20" x:Name="stopGoHomeErrTB" />            
+        </StackPanel>
+        <StackPanel Grid.Column="2" Grid.Row="1" Margin="0, 0, 10, 0">
+            <TextBlock Margin="0, 0, 0, 10" FontSize="30" HorizontalAlignment="Center" Foreground="CornflowerBlue">Takeoff</TextBlock>
+            <TextBlock Margin="0, 0, 0, 20" TextWrapping="Wrap"><Bold>Note:</Bold> Starts aircraft takeoff. Takeoff is considered complete when the aircraft is hovering 1.2 meters (4 feet) above the ground. Value is returned when aircraft crosses 0.5 meters (1.6 feet). If the motors are already on, this command cannot be executed.</TextBlock>
+            <Button Content="Start Takeoff" Click="StartTakeoff_Click" />
+            <TextBlock Margin="0, 10" x:Name="startTakeoffTB" />
+            <Button Content="Stop Takeoff" Click="StopTakeoff_Click" />
+            <TextBlock Margin="0, 10" x:Name="stopTakeoffTB" />
+            <Button Content="Start Auto Landing" Click="StartAutoLanding_Click" />
+            <Button Margin="0, 10" Content="Stop Auto Landing" Click="StopAutoLanding_Click" />
+            <TextBlock x:Name="autoLandingTB" />
+            <Button Margin="0, 10" Content="Get Wind Warning" Click="GetWindWarning_Click" />
+            <TextBlock x:Name="windWarningTB" />
+        </StackPanel>
+        <StackPanel Grid.Column="3" Grid.Row="1">
+            <TextBlock Margin="0, 0, 0, 10" FontSize="30" HorizontalAlignment="Center" Foreground="DarkCyan">Aircraft</TextBlock>
+            <Button Content="Get Rec. Action Based On Battery Life" Click="GetActionByBatteryLife_Click" />
+            <TextBlock Margin="0, 20" x:Name="actionTB" />
+            <Button Content="Get Remaining Flight Time" Click="GetRemainingFlightTime_Click" />
+            <TextBlock Margin="0, 20" x:Name="timeLeftTB" />
+            <Button Content="Get Low Battery Warning" Click="GetLowBatteryWarning_Click" />
+            <TextBlock Margin="0, 20" x:Name="lowBatteryWarningTB" />
+        </StackPanel>
+    </Grid>
+</Page>
