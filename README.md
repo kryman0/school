@@ -81,6 +81,8 @@ Clicking on the alarm bell starts a countdown to 0 and prints a simple message.
 
 * [vue-stocks](https://stock.kryman.me/#/): Application created in the framework Vue.js for getting updated stock prices via sockets presented in a graph for each stock. The frontend connects to the backend via the APIs and the login use JWT.
 
+* [police](https://police.kryman.me/#!/): The application is about fetching and displaying certain information from the Swedish Police, such as all the police stations in the country, and for logged in users (free registering) all the latest police reported actions in the country. Clicking on a particular police action leads to a GPS location displayed on a map where the action occurred. The application is best viewed on a mobile device. The file in the folder, is an apk file. This file can be installed on a smartphone device via USB to have the application as an app on the smartphone. More information on installing and about the application is provided in the folder's readme.
+
 ## C#
 
 ### Applications
